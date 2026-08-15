@@ -1,3 +1,6 @@
 {
-  "CLI001": true
+  "CLI001": {
+    "discovery": true,
+    "tecnico": true
+  }
 }
