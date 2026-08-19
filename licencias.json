@@ -1,4 +1,7 @@
 {
+  "CDS-0000": {
+    "comp_dv": true
+  },
   "CDS-0001": {
     "comp_dv": true
   },
