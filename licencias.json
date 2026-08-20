@@ -1,17 +1,9 @@
 {
-  "CDS-0000": {
-    "comp_dv": true
-  },
-  "CDS-0001": {
-    "comp_dv": true
-  },
-  "CDS-0002": {
-    "comp_dv": true
-  },
-  "CDS-0003": {
-    "comp_dv": true
-  },
-  "CDS-0004": {
-    "comp_dv": true
-  }
+  "CDS-0000": {"comp_dv": true },
+  "CDS-0001": {"comp_dv": true },
+  "CDS-0002": {"comp_dv": true },
+  "CDS-0003": {"comp_dv": true },
+  "CDS-0004": {"comp_dv": true },
+  "CDS-9998": {"comp_dv": false },
+  "CDS-9999": {"comp_dv": true }
 }
