@@ -4,7 +4,6 @@
   "CDS-0002": {"comp_dv": true },
   "CDS-0003": {"comp_dv": true },
   "CDS-0004": {"comp_dv": true },
-  "CDS-9998": {"comp_dv": true },
-  "CDS-9998": {"serv_tec": true },
-  "CDS-9999": {"comp_dv": true }
+  "CDS-9998": {"comp_dv": true, "serv_tec": true },
+  "CDS-9999": {"comp_dv": true, "serv_tec": true  }
 }
